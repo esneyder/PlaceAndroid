@@ -15,8 +15,8 @@
     ]]>
     </string>
 
-    <string name="parse_app_id">I8eqiaQUhqKBP2hy0yUGjFEusxc7uUlfyd2GY1g8</string>
-    <string name="parse_client_key">xN6q4rk84CN7WonIx6dqfMpo0hr1J7hMPchqFpke</string>
+    <string name="parse_app_id"></string>
+    <string name="parse_client_key"></string>
     <string name="dialog_action_ok">OK</string>
     <string name="dialog_action_yes">Yes</string>
     <string name="dialog_action_delete">Delete</string>
